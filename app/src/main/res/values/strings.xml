@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MilagrosoAdviser</string>
+    <string name="action_settings">action settings</string>
+    <string name="find_measure">Select</string>
+    <string name="measure">No type selected</string>
+    <string-array name="pacient_type">
+        <item>Hipertension</item>
+        <item>Diabetes</item>
+        <item>Insuficiencia Cardiaca</item>
+    </string-array>
+</resources>
